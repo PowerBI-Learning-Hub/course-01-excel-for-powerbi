@@ -216,8 +216,6 @@ Complex concepts are simplified using:
 
 # Disclaimer
 
-This repository contains independently created educational notes, summaries, and practical learning material.
+This repository contains independently created educational notes, practical explanations, and learning resources designed to support Power BI learning, skill development, and PL-300 exam preparation.
 
-It is not affiliated with or endorsed by Microsoft or Coursera.
-
-Power BI is a trademark of Microsoft.
+All product names, trademarks, and registered trademarks mentioned are the property of their respective owners.
