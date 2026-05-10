@@ -1,4 +1,4 @@
-# 02 — Excel Formula Operators, Precedence & Cell References
+# Excel Formula Operators, Precedence & Cell References
 
 ## Core Idea
 
